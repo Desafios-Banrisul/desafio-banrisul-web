@@ -18,7 +18,7 @@ Este projeto conta com as seguintes tecnologias:
 
 - **suporte** : Classes de abstracao
 
-- **utilitarios** :  Meétodos auxiliares 
+- **utilitarios** :  Métodos auxiliares 
 
 - **Main/Resources** : Arquivos de inputs para execução dos testes.
 
