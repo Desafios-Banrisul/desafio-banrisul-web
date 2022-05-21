@@ -2,7 +2,7 @@
 
 Este projeto foi desevolvido para capacitacção de testes automatizdos do time DBServer - Banrisul, e tem como objetivo realizar o cadastro de um novo usuário no site [Automação Batista](https://automacaocombatista.herokuapp.com/home/index).
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto conta com as seguintes tecnologias:  
 
@@ -12,7 +12,7 @@ Este projeto conta com as seguintes tecnologias:
 - [Maven](https://maven.apache.org/download.cgi)
 - [JUnit 5](https://junit.org/junit5/)
 
-##Padrões Utilizados
+## Padrões Utilizados
 
 **Main/Java**
 
